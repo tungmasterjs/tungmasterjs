@@ -1,16 +1,24 @@
 ### Hi there 👋
+[![Header](https://raw.githubusercontent.com/tunbl/tunblack/main/images/background2.png "Header")](https://some-url.dev/)
 
-<!--
-**tungmasterjs/tungmasterjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello, I'm Tung, my nickname is tunblack**
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+### ℹ️ Information
+- I’m student
+- I'm studying to become a  software developer
+- I’m currently learning Java, C++ 
+- Reach me: [tungtv104@gmail.com](tungtv104@gmail.com)
+- **Access my website** : đang cập nhật 
+
+--- 
+### ✍️ Blog and Writing
+
+- Blog: đang cập nhật
+- My bigdata blog: đang cập nhật
+--- 
+### 👉 Other
+- Gitlab : [https://gitlab.com/tungmasterjss](https://gitlab.com/tungmasterjss)
+- Connect with me in Linkedin: [đang cập nhật](https://www.linkedin.com/in/)
