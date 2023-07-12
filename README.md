@@ -7,7 +7,7 @@
 
 --- 
 ### ℹ️ Information
-- I’m student
+- I’m student UIT
 - I'm studying to become a  software developer
 - I’m currently learning Java, C++ 
 - Reach me: [tungtv104@gmail.com](tungtv104@gmail.com)
@@ -16,8 +16,6 @@
 --- 
 ### ✍️ Blog and Writing
 
-- Blog: đang cập nhật
-- My bigdata blog: đang cập nhật
 --- 
 ### 👉 Other
 - Gitlab : [https://gitlab.com/tungmasterjss](https://gitlab.com/tungmasterjss)
