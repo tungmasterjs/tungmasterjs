@@ -7,7 +7,7 @@
 
 --- 
 ### ℹ️ Information
-- I’m student UIT
+- I’m student
 - I'm studying to become a  software developer
 - I’m currently learning Java, C++ 
 - Reach me: [tungtv104@gmail.com](tungtv104@gmail.com)
